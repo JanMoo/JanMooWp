@@ -1309,10 +1309,10 @@ Footer widgets
   background: #111111;
   color: #bbbbbb;
   font-size: 14px;
-  position: fixed;
+  /*position: fixed;
   bottom: 0;
   left: 0;
-  right: 0;   
+  right: 0; */  
 }
 .site-footer a {
   color: #03c4eb;
